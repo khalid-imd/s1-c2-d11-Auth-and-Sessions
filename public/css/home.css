@@ -1,0 +1,68 @@
+body{
+    background-color: #d7d7d7;
+}
+
+nav .container-fluid{
+    height: 8vh;   
+}
+
+.img-width{
+    width: 65px;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-orange:hover{
+    background-color: rgb(251, 190, 76) !important; 
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.margin-top-myproject{
+    margin-top: 50px;
+}
+
+.width100{
+    width: 100%;
+}
+.font-size30{
+    font-size: 30px;
+}
+
+.text-justify{
+    text-align: justify !important;
+}
+
+.bg-blue{
+    background-color: #212130;
+}
+.bg-blue:hover{
+    background-color: #2f2f3e !important;
+}
+
+.text-white{
+    color: white;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.width20{
+    width: 60px;
+}
+
+.btn-card{
+    background-color: rgb(66, 64, 168);
+}
+.btn-card:hover{
+    background-color: rgb(91, 90, 158) !important;
+}
+
+a{
+    text-decoration: none;
+}

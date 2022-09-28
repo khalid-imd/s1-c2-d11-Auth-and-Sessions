@@ -1,0 +1,35 @@
+ody{
+    background-color: #d7d7d7;
+}
+
+nav .container-fluid{
+    height: 8vh;   
+}
+
+.img-width{
+    width: 65px;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-orange:hover{
+    background-color: rgb(251, 190, 76) !important; 
+}
+
+.text-justify{
+    text-align: justify !important;
+}
+
+.icon-30{
+    font-size: 30px;
+}
+
+label{
+    font-size: 25px;
+}
+
+.text-bold{
+    font-weight: bold;
+}

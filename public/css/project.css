@@ -1,0 +1,56 @@
+body{
+    background-color: #dddde0;
+}
+
+nav .container-fluid{
+    height: 8vh;   
+}
+
+.img-width{
+    width: 65px;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-orange:hover{
+    background-color: rgb(251, 190, 76) !important; 
+}
+
+.wide-49{
+    width: 100%;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+
+.container-fluid{
+    height: 130vh;
+    
+}
+
+.container-form{
+    width: 450px;
+}
+
+textarea{
+    resize: none;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.bg-blue{
+    background-color: #2b2b59;
+}
+.bg-blue:hover{
+    background-color: #383858 !important;
+}
+
+a{
+    text-decoration: none;
+}
